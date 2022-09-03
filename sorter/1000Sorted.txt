@@ -1,1000 +1,1000 @@
-Acai;70
-ACE Drink;44
-Acerola;32
-Acorn;387
-Activia;74
-Activia Lemon;100
-Advocaat;283
-Agave Syrup;310
-Ale;35
-Alfalfa Sprouts;23
-All Purpose Flour;364
-Alligator Meat;232
-Almond Extract;258
-Alphabet Soup;25
-Amaranth;371
-American Cheese;148
-Angel Delight;451
-Angel Food Cake;258
-Animal Crackers;446
-Apple Butter;173
-Apple Crumble;156
-Apple Pie Filling;100
-Apple Spritzer;24
-Apple Strudel;274
-Apple Turnover;348
-Applesauce;62
-Apricot Kernel Oil;889
-Arby’s Reuben;208
-Arby’s Roast Beef Max;234
-Arugula;25
-Asiago Cheese;392
-Asti;138
-Avocado;160
-Avocado Oil;857
-Ayran;42
-Azuki Bean;124
-Babassu Oil;884
-Baby Back Ribs;259
-Baby Ruth;469
-Bacon;407
-Bacon and Eggs;252
-Bagel;257
-Baguette;274
-Bailey’s Irish Cream;327
-Baileys;327
-Baked Alaska;247
-Baked Ham;343
-Baked Potato;93
-Balsamic Vinaigrette Dressing;290
-Balsamic Vinegar;88
-Bamboo Shoots;27
-Banana Bread;326
-Banana Juice;50
-Banana Nut Bread;326
-Banoffee Pie;395
-Barley Groats;100
-Barq’s;46
-Bass;45
-BBQ Pizza;224
-BBQ Ribs;255
-Bean Curd;76
-Bean Stew;133
-Bechamel Sauce;225
-Beck’s;39
-Beef Bouillon;3
-Beef Brain;196
-Beef Brisket;137
-Beef Fillet;189
-Beef Heart;165
-Beef Jerky;410
-Beef Kidney;158
-Beef Liver;191
-Beef Minute Steak;133
-Beef Neck;213
-Beef Noodle Soup;34
-Beef Pancreas;271
-Beef Prime Rib;404
-Beef Ribs;196
-Beef Suet;854
-Beef Tallow;902
-Beef Tongue;284
-Beetroot;43
-Bell Pepper;20
-Bengal Gram;364
-Bergkäse;418
-Bianca Pizza;246
-Bircher Muesli Yogurt;109
-Biscuit;269
-Bitter Lemon;34
-Black Beans;341
-Black Chickpeas;364
-Black Forest Cake;264
-Black Sesame Seeds;573
-Blackberries;43
-Blackcurrant Jam;250
-Blood Sausage;379
-BLT;247
-Blue Cheese;353
-Blue Cheese Dressing;533
-Blueberry Cobbler;234
-Blueberry Muffin;377
-Blueberry Yogurt;105
-Bluefish;159
-Bockwurst;301
-Boiled Ham;126
-Boiled Potatoes;87
-Bologna;247
-Bourbon;233
-Bran Muffins;270
-Brandy;213
-Brawn;309
-Bread Pudding;153
-Brioche;346
-Brittle;592
-Broccoli;34
-Broccoli Cheese Soup;87
-Brown Bread;246
-Brownies;405
-Buckler (N.A.);21
-Buckwheat Groats;346
-Bud Ice;35
-Bud Light;29
-Bud Light Lime;34
-Bun;316
-Burger King Double Whopper;239
-Burger King Premium Alaskan Fish Sandwich;259
-Burger King Triple Whopper;269
-Burger King Whopper with Cheese;241
-Burrito;163
-Busch;37
-Busch Light;27
-Busch N.A.;17
-Butter;720
-Butter Chicken;140
-Butterfinger;450
-Butterfish;187
-Buttermilk;62
-Butternut;612
-Butterscotch Chips;539
-Cabbage;25
-Cabbage Soup;28
-Cabernet Sauvignon;77
-Caesar Dressing;429
-Cake Flour;362
-Calamari;175
-Calf Brain;136
-Calf Liver;192
-Calf Lung;104
-Calf Melt;256
-Calzone;231
-Camembert;300
-Canada Dry Ginger Ale;41
-Canadian-Style Bacon;107
-Candied Orange Peel;97
-Candy Apple;152
-Candy Cane;423
-Candy Floss;400
-Canned Apricots;48
-Canned Blackberries;92
-Canned Blueberries;88
-Canned Cherries;54
-Canned Fruit Cocktail;81
-Canned Grapefruit;37
-Canned Mango;65
-Canned Mixed Fruit;71
-Canned Peaches;54
-Canned Pears;35
-Canned Raspberries;91
-Canned Sour Cherries;114
-Canned Tangerines;61
-Cannelloni;146
-Cannoli;254
-Canola Oil;884
-Cap’n Crunch;404
-Capellini;353
-Capers;23
-Capicola;110
-Cappelletti;164
-Caramel Popcorn;376
-Caramel squares;367
-Caraway Seeds;333
-Cardamom;311
-Carp;162
-Carrot Soup;25
-Carvel;212
-Cashew;553
-Cassava;160
-Cayenne Pepper;318
-Celery;16
-Cellophane Noodles;351
-Chambord;348
-Chamomile Tea;0
-Chapati;240
-Chardonnay;85
-Cheddar;403
-Cheerios;347
-Cheese Pizza;267
-Cheese Spread;290
-Cheese Tortellini;291
-Cheese Whiz;276
-Cheesecake;321
-Chenin Blanc;80
-Cherries;50
-Cherry Coke;44
-Cherry Jam;250
-Cherry Tomato;100
-Cherry Yogurt;97
-Chester;387
-Chicken;219
-Chicken Breast Fillet;79
-Chicken Drumstick;185
-Chicken Drumsticks;185
-Chicken Gizzards;146
-Chicken Gumbo Soup;23
-Chicken Heart;185
-Chicken Leg;174
-Chicken Marsala;96
-Chicken McNuggets;302
-Chicken Parmesan;110
-Chicken Pizziola;141
-Chicken Pot Pie;223
-Chicken Sandwich;241
-Chicken Stock;16
-Chicken Thigh;229
-Chicken Thighs;229
-Chicken Wings;324
-Chicory;72
-Chicory Roots;72
-Chili;282
-Chili Bean;97
-Chili con Carne;105
-Chili Sauce;112
-Chimichanga;232
-Chinese Cabbage;16
-Chives;30
-Chocolate;529
-Chocolate Chip Ice Cream;215
-Chocolate Cream Pie;304
-Chocolate Milkshake;125
-Chocolate Mousse Cake;260
-Chocolate Mousse Pie;260
-Chocolate Muffin;420
-Chocolate Spread;541
-Chocolate Sprinkles;500
-Chocolate Yogurt;128
-Chocos;380
-Chop Suey;172
-Chopped Ham;180
-Chuck Roast;141
-Chuck Steak;137
-Cider;49
-Cilantro;23
-Cinnamon Toast Crunch;433
-Clam;148
-Clamato;60
-Clausthaler (N.A.);26
-Club Mate;30
-Coco Pops;376
-Cocoa Pebbles;367
-Cocoa Powder;228
-Coconut Oil;857
-Coffee;1
-Coffee Cake;331
-Coffee Ice Cream;236
-Cointreau;320
-Cola;42
-Colby Cheese;394
-Conchas/Mexican Sweet Bread;353
-Concord Grape;71
-Cookie Crisp;400
-Coors N.A.;18
-Corn Dog;250
-Cornbread;179
-Corned Beef;251
-Corned Beef Hash;164
-Cornish Hens;259
-Cornmeal;362
-Cornstarch;381
-Cotton Candy;643
-Count Chocula;407
-Cracklin Oat Bran;402
-Cranberries;46
-Cream Cheese with Herbs;342
-Cream of Broccoli Soup;45
-Cream of Celery Soup;37
-Cream of Chicken Soup;48
-Cream of Wheat;364
-Cream Puff;334
-Cream Yogurt;124
-Creamed Spinach;74
-Creme Fraiche;393
-Cress;32
-Crunchy Nut;600
-Crunchy Nut Cornflakes;600
-Crystallized Ginger;335
-Cucumber;16
-Cucumber Juice;10
-Cumin Seed;375
-Cupcake;305
-Cupcakes;305
-Curd;98
-Curly Fries;311
-Currant Juice;48
-Curry;325
-Curry Ketchup;124
-Curry Sauce;26
-Custard;122
-Dairy Milk McFlurry;186
-Dal;330
-Dampfnudel;274
-Dandelion;45
-Danish Pastry;374
-Dark Beer;46
-Dates;282
-Deep-Fried Tofu;271
-Deviled Eggs;201
-Diet Cherry Coke;1
-Diet Coke;1
-Diet Yogurt;54
-Dill;43
-Dill Weed;43
-Dippin Dots;224
-Donut/Doughnut;421
-Dosa;66
-Doughnut;403
-Dove;213
-Dr. Pepper;27
-Dragon Fruit;60
-Dried Cranberries;308
-Dried Figs;249
-Duck;337
-Duck Breast;201
-Duck Egg;185
-Dumplings;124
-Durian;147
-Durum Wheat Semolina;397
-Dutch Cheese;393
-Dutch Loaf;268
-Edam;357
-Eel;236
-Egg Roll;250
-Egg Yolk;322
-Empanada;335
-English Muffin;227
-Evaporated Milk;135
-Evian;0
-Extra-Firm Tofu;91
-Fajita;117
-Fanta Zero;0
-Farfalle;358
-Feta;264
-Feta Cream Cheese;342
-Fiber One;267
-Filet Mignon;207
-Fish and Chips;195
-Fish Fingers;290
-Fish Sticks;290
-Five Alive;35
-Flan;145
-Flank Steak;194
-Flapjack;486
-Flatbread;311
-Flaxseed Oil;884
-Flounder;86
-Focaccia;249
-Fontina;389
-Fortune Cookies;214
-Frangelico;238
-Frankfurters;305
-Freekeh;520
-French Cruller;412
-French Fingerling Potatoes;82
-French Fries;312
-Fresca;0
-Friendly’s;212
-Froot Loops;379
-Frosted Flakes;367
-Frosties;367
-Fructose;368
-Fruit Cake;324
-Fruit salad;50
-Fruitopia;110
-Fruity Pebbles;400
-Full Throttle;110
-Fuze;20
-Fuze Tea;25
-Gamay;78
-Garlic;149
-Garlic Cream Cheese;342
-Garlic Powder;331
-Garlic Salt;0
-Genesee Cream Ale;46
-Gin;263
-Ginger;80
-Ginger Ale;35
-Ginger Tea;0
-Ginkgo Nuts;182
-Glenfiddich;230
-Glucose;286
-Gluten;370
-Gnocchi;133
-Goat Cheese Pizza;219
-Goose Fat;898
-Goose Meat;238
-Gourd;14
-Grand Marnier;253
-Granola Bars;452
-Granulated Sugar;387
-Grape Leaves;93
-Grapefruit;42
-Grapefruit Juice;46
-Grated Parmesan;431
-Green Beans;31
-Green Lentil;257
-Green Olives;115
-Green Onion;32
-Greengage;41
-Grilled Cheese;350
-Grilled Chicken Salad;88
-Ground Chuck;250
-Ground Ginger;335
-Guinea-Fowl;158
-Hake;71
-Halibut;111
-Ham and Cheese Sandwich;241
-Ham Sandwich;241
-Hamburger;254
-Hamburger Sauce;383
-Harissa;52
-Havarti;371
-Hawaiian Pizza;115
-Hawaiian Punch;31
-Hazelnut;628
-Hazelnuts;628
-Hi-C;49
-Hog Maws;157
-Hoki;121
-Honey;304
-Honey Brown;42
-Honey Mustard Dressing;464
-Honey Nut Cheerios;393
-Honeycomb;397
-Honeydew;36
-Horchata;54
-Horseradish;48
-Hot Chocolate;89
-Hot Dog Buns;279
-Hot Fudge Sundae;186
-Hot Pepper;318
-Hot Sausage;259
-Hurricane High Gravity;39
-I can\’t believe it\’s not Butter;357
-Ice Cream Cake;200
-Ice Cream Sandwich;237
-Ice Cream Sundae;142
-Iced Tea;27
-Iodized Salt;0
-Irish Whiskey;233
-Italian BMT;183
-Italian Cheese;397
-Jack Daniel’s;146
-Jackfruit;95
-Jagermeister;250
-Jaggery;383
-Jalapeno;13
-Jelly;278
-Jelly Beans;354
-Jelly Belly;354
-Jerky;410
-Jim Beam;222
-Jolly Ranchers;385
-Jolt Cola;44
-Jujube;79
-Just Right;391
-Kahlua;180
-Kale;49
-Karamalz;37
-Kefir;55
-Kelloggs Corn Flakes;357
-Key Lime Pie;359
-Kielbasa;309
-King Cake;377
-Koelsch;43
-Kohlrabi;27
-Kombucha;13
-Kool-Aid;26
-Krave;372
-Kumquat;71
-Labatt;43
-Lacy Swiss Cheese;321
-Laffy Taffy;372
-Lager Beer;43
-Lamb Meat;202
-Landjaeger;352
-Lard;898
-Lasagna;132
-Latte Macchiato;57
-Layer Cake;402
-Lemon Juice;21
-Lemon Meringue Pie;268
-Lemon Pie Filling;143
-Lentils;353
-Licorice;375
-Life Cereal;375
-LifeSavers;500
-Light Beer;29
-Lima Beans;71
-Lime;30
-Limeade;128
-Linguine;357
-Linseed Oil;837
-Liquor;250
-Liquorice;375
-Liverwurst;326
-Lobster Bisque Soup;100
-Lollipop;392
-Lotus Seed;89
-Low Carb Pasta;282
-Lowenbrau;45
-Low-Fat Yogurt;63
-Lucky Charms;406
-Lychee;66
-Lychees;66
-Macaroni and Cheese;370
-Mackerel;262
-Maggi;104
-Magnum;300
-Magnum Double Chocolate;380
-Malbec;82
-Malbec Wine;82
-Maltesers;498
-Maltodextrin;375
-Maltose;344
-Manchego Cheese;320
-Mango;60
-Mango Lassi;66
-Maracuya;97
-Marble Cake;339
-Margherita Pizza;275
-Marron;210
-Marshmallow Fluff;666
-Marshmallows;318
-Marzipan;411
-Mascarpone;450
-McDonald’s Chicken Nuggets;297
-McDonald’s Filet-o-Fish;275
-McDonald’s McChicken;251
-McFlurry;153
-McFlurry Oreo;186
-Meat Pie;242
-Meatball Sandwich;161
-Meatball Soup;49
-Meatloaf;89
-Menhaden Oil;911
-Meringue;285
-Michelob Lager;44
-Michelob Ultra Amber;26
-Milk;61
-Miller High Life;40
-Millet Flour;372
-Millet Gruel;46
-Milo;409
-Milwaukee’s Best;36
-Minced Onion;40
-Minestrone;34
-Mini Milk;120
-Mini-Wheats;353
-Mint;70
-Miso;199
-Molasses;290
-Monkey Bread;290
-Monterey;373
-Moose Meat;134
-Moscato Wine;76
-Mostaccioli;184
-Mozzarella;280
-Mozzarella Pizza;249
-Muesli;336
-Muffin;296
-Mug Root Beer;42
-Mullet;150
-Mung Beans;12
-Mushroom Pizza;212
-Mushrooms;22
-Mussel;172
-Mustard;60
-Mustard Greens;27
-Mustard Oil;884
-Mustard Sauce;645
-Mustard Seed;508
-Mutton;234
-Mutton Meat;234
-Napoli Pizza;202
-Natural Ice;44
-Natural Light;27
-Navy Bean;337
-Nestea;21
-Newcastle;39
-Noodle Soup;34
-Nutella;544
-O’Doul’s (N.A.);19
-Oat Bran;246
-Oatibix;421
-Oatmeal;375
-Oatmeal Cookies;450
-Oatmeal Raisin Cookies;435
-Obatzda;303
-Octopus;164
-Okra;33
-Old Milwaukee;41
-Old Milwaukee N.A.;16
-Olde English;45
-Olive Cream Cheese;342
-Olive Spread;550
-Omelette;154
-Onion;40
-Onion Rings;411
-Opera Cake;320
-Orange;47
-Orange Juice;46
-Orange Peel;97
-Oregano;265
-Pabst Blue Ribbon;41
-Paella;156
-Pale Ale;42
-Palm Kernel Oil;882
-Palm Oil;882
-Pan de Sal;293
-Pancake;227
-Papaya Juice;58
-Paprika;282
-Paratha;325
-Parmesan;431
-Parsley;36
-Pâté (720), Pate;319
-Pea Soup;75
-Peach Cobbler;65
-Peanut Bar;533
-Peanut Brittle;183
-Peanut Butter;589
-Peanut Butter Bars;379
-Peanut Butter Sandwich;408
-Peanut Butter Toast Crunch;431
-Peanut Oil;857
-Peanuts;567
-Pear;57
-Pear Juice;60
-Pear Nectar;60
-Pearl Barley;352
-Peas;81
-Pecan Pie;407
-Pecans;691
-Pecorino;387
-Penne;351
-Penne Rigate;370
-Pepper Cheese;100
-Peppermint Extract;0
-Pepperoni Pizza;255
-Persimmon;127
-Peter Pan Peanut Butter;609
-Pez;427
-Pheasant;239
-Pheasant Meat;239
-Physalis;49
-Pibb Xtra;40
-Pickled Herring;262
-Pie;237
-Pierogi;200
-Pig Brain;138
-Pig Ear;166
-Pig Lung;99
-Pig’s Trotter;243
-Pigeon;142
-Pili Nuts;719
-Pilsner;43
-Pine Nuts;673
-Pineapple;50
-Pineapple Orange Juice;50
-Pineapple Upside-Down Cake;319
-Pinot Noir;75
-Pistachios;562
-Pizza;267
-Pizza Hut Stuffed Crust Pizza;255
-Plaice;91
-Plain Yogurt;61
-Plantain;122
-Plantains;122
-Plum;46
-Plum Cake;109
-Plum Jam;250
-Plum Juice;71
-Plum Wine;163
-Polenta;366
-Polish Sausage;301
-Pollack;111
-Pomegranate Juice;66
-Pomelo;38
-Poppy Seed;525
-Poppy Seeds;525
-Pork Baby Back Ribs;212
-Pork Belly;518
-Pork Cutlet;131
-Pork Cutlets;131
-Pork Leg;201
-Pork Loin;204
-Pork Meatloaf;243
-Pork Rib Roast;159
-Pork Steaks;196
-Port Wine;160
-Porter;54
-Porterhouse Steak;247
-Post Raisin Bran;322
-Potato;77
-Potato Bread;266
-Potato Fritter;185
-Potato Gratin;132
-Potato Pancakes;268
-Potato Wedges;123
-Poularde;200
-Poultry Seasoning;307
-Pound Cake;390
-Poutine;227
-Powdered Milk;496
-Powdered Sugar;389
-Powerade;16
-Prickly Pear;41
-Prosciutto;195
-Protein Powder;411
-Puff;367
-Puffed Rice;383
-Puffed Wheat;367
-Pulled Pork Sandwich;211
-Pumpernickel;250
-Pumpkin Bread;298
-Pumpkin Pie;243
-Pumpkin Seed Oil;880
-Pumpkin Seeds;560
-Punch;62
-Puy Lentils;345
-Quail;227
-Quail Breast;123
-Quaker Grits;344
-Quaker Oatmeal Squares;400
-Quattro Formaggi Pizza;248
-Quince;57
-Rack of Pork;241
-Raclette Cheese;357
-Racoon;255
-Radish Seeds;43
-Rambutan;82
-Ramen;447
-Raspberry Pie;240
-Ravioli;77
-Red Beans;124
-Red Cabbage;31
-Red Gold Potatoes;89
-Red Lentils;329
-Red Wine Vinegar;19
-Refried Beans;91
-Reindeer Meat;200
-Rhubarb;21
-Rhubarb Pie;245
-Rigatoni;353
-Ring Bologna;286
-Roasted Almonds;452
-Rock Sugar;625
-Rolled Oats;384
-Rolling Rock Light;30
-Rolo;474
-Root Beer;41
-Rosemary;131
-Rosemary Potatoes;93
-Rotini;353
-Round Steak;182
-Rum;231
-Rum Cake;351
-Rump Steak;171
-Russian Banana Potatoes;67
-Russian Dressing;400
-Rye Bread;259
-Saffron;310
-Sage;315
-Salad Dressing;449
-Salami Pizza;255
-Salmon;206
-Salmon Oil;911
-Salt Pork;286
-Salted Butter;717
-Sambal Oelek;21
-Sambuca;333
-Sandwich Cheese;148
-Sardines;208
-Sausage;230
-Sausage Pizza;246
-Sauvignon Blanc;81
-Savory;272
-Savoury Biscuits;347
-Scampi;84
-Scotch;222
-Scotch Broth;33
-Sea Salt;0
-Seafood Pizza;245
-Semolina;340
-Semolina Flour;350
-Sesame Paste;595
-Shad;252
-Shallots;72
-Shark;130
-Shepherds Pie;70
-Shirataki Noodles;18
-Shiraz;71
-Shortbread;502
-Shortcrust Pastry;544
-Shredded Coconut;501
-Shredded Wheat;340
-Shrimp Cocktail;464
-Sierra Nevada Strong;62
-Skim Milk;35
-Skim Milk Yogurt;56
-Skirt Steak;205
-Skittles;405
-Sloe Gin;332
-Sloppy Joe;71
-Sloppy Joes;154
-Slurpee;4
-Slush Puppie;50
-Smart Start;371
-Smoked Almonds;575
-Smoked Ham;107
-Smuckers Strawberry Jam;250
-Snickers;484
-Soda;53
-Soft Cheese;268
-Soft Serve;222
-Solero;100
-Soufflé;204
-Sour Cream Sauce;60
-Sourdough Bread;289
-Soursop Fruit;66
-Soy Cheese;235
-Soy Mayonnaise;322
-Soy Milk;45
-Soy Nut Butter;562
-Soy Oil;882
-Soy Sauce;67
-Soya Cheese;235
-Soybeans;147
-Soynut Butter;562
-Spareribs;238
-Sparkling Wine;190
-Sparks;74
-Special K;377
-Special K Chocolatey Delight;388
-Special K Protein Plus;375
-Special K Red Berries;345
-Speculoos;469
-Spelt Bran;177
-Spelt Semolina;360
-Spice Cake;332
-Spicy Italian;219
-Spinach;23
-Spinach Pizza;234
-Spring Roll;250
-Sprinkles;500
-Sprite;37
-Squirrel;173
-Squirrel Meat;173
-St. Pauli Girl;42
-Starch;381
-Starfruit;31
-Steel Reserve;63
-Stevia;0
-Strawberry Cheesecake;327
-Strawberry Preserves;278
-Strawberry Rhubarb Pie;281
-Strawberry Sundae;158
-Strip Steak;117
-Succotash;115
-Sucrose;387
-Sugar Peas;42
-Sunbutter;617
-Sundae;215
-Sunflower Butter;617
-Sweet and Sour Sauce;179
-Sweet Peas;48
-Sweet Potato Pie;260
-Sweet Rolls;333
-Sweet White Wine;82
-Sweetened Condensed Milk;321
-Tabasco;70
-Taco;217
-Tagliatelle;370
-Tamarind;239
-Tandoori Chicken;113
-Tang;381
-Tangerine;53
-Tangerine Juice;43
-Taro;112
-Tarte Tatin;210
-T-Bone Steak;202
-Tea;1
-Textured Soy Protein;571
-Textured Vegetable Protein;333
-Thyme;276
-Tilsit;340
-Tilt;64
-Tiramisu Cake;291
-Toasties;361
-Toblerone;525
-Tomato;18
-Tomato Juice;17
-Tomato Paste;82
-Tomato Puree;38
-Tomato Sauce;24
-Tomato Soup;30
-Tongue;284
-Tonic Water;35
-Tortilla Bread;265
-Treacle Tart;369
-Tres Leches Cake;246
-Trifle;180
-Trout;190
-Tuna;86
-Tuna Pizza;254
-Tuna Salad;187
-Turbot;122
-Turkey Breast;104
-Turkey Drumsticks;208
-Turkey Giblets;173
-Turkey Ham;126
-Turkey Legs;208
-Turkey Salami;152
-Turkey Steak;189
-Turkey Wings;221
-Turmeric;354
-Turnip Greens;20
-Twix;495
-Vanilla Bean;250
-Vanilla Milkshake;149
-Vanilla Yogurt;101
-Veal Shoulder;183
-Veal Tenderloin;217
-Veal Tongue;202
-Vegemite;180
-Vegetable Beef Soup;31
-Vegetable Broth;5
-Vegetable Cream Cheese;342
-Vegetable Juice;21
-Vegetable Shortening;884
-Vegetable Stock;5
-Veggie Burger;181
-Veggie Delight;138
-Veggie Pizza;231
-Venison;164
-Vinaigrette;120
-Vinegar;18
-Vodka;231
-Volvic;0
-Wahoo;167
-Walnut Cream Cheese;342
-Walnut Oil;889
-Water;0
-Watermelon;30
-Wedding Cake;381
-Weetabix;358
-Weet-Bix;353
-Weetos;378
-Wheat Starch;351
-Wheaties;367
-White American;148
-White Beans;336
-White Cheddar;403
-White Grape Juice;75
-White Pepper;296
-White Pizza;246
-White Potatoes;94
-White Wine;82
-White Zinfandel;88
-Whitefish;172
-Whole Grain Noodles;347
-Whole Grain Wheat;339
-Wholegrain Oat;375
-Whopper;231
-Wild Duck;211
-Wine;83
-Worcestershire Sauce;78
-Yeast (dry);325
-Yogurt Corner;119
-Yoplait Boston Cream Pie;90
-Yoplait French Vanilla;100
-Yoplait Greek Blueberry;100
-Yoplait Strawberry Cheesecake;100
-Yorkshire Pudding;553
-Young Gouda;356
-Yuba;176
-Yukon Gold Potatoes;82
-Zander;84
-Zinfandel;88
-Zinger;256
-Zucchini;17
+acai;70
+ace drink;44
+acerola;32
+acorn;387
+activia;74
+activia lemon;100
+advocaat;283
+agave syrup;310
+ale;35
+alfalfa sprouts;23
+all purpose flour;364
+alligator meat;232
+almond extract;258
+alphabet soup;25
+amaranth;371
+american cheese;148
+angel delight;451
+angel food cake;258
+animal crackers;446
+apple butter;173
+apple crumble;156
+apple pie filling;100
+apple spritzer;24
+apple strudel;274
+apple turnover;348
+applesauce;62
+apricot kernel oil;889
+arby’s reuben;208
+arby’s roast beef max;234
+arugula;25
+asiago cheese;392
+asti;138
+avocado;160
+avocado oil;857
+ayran;42
+azuki bean;124
+babassu oil;884
+baby back ribs;259
+baby ruth;469
+bacon;407
+bacon and eggs;252
+bagel;257
+baguette;274
+bailey’s irish cream;327
+baileys;327
+baked alaska;247
+baked ham;343
+baked potato;93
+balsamic vinaigrette dressing;290
+balsamic vinegar;88
+bamboo shoots;27
+banana bread;326
+banana juice;50
+banana nut bread;326
+banoffee pie;395
+barley groats;100
+barq’s;46
+bass;45
+bbq pizza;224
+bbq ribs;255
+bean curd;76
+bean stew;133
+bechamel sauce;225
+beck’s;39
+beef bouillon;3
+beef brain;196
+beef brisket;137
+beef fillet;189
+beef heart;165
+beef jerky;410
+beef kidney;158
+beef liver;191
+beef minute steak;133
+beef neck;213
+beef noodle soup;34
+beef pancreas;271
+beef prime rib;404
+beef ribs;196
+beef suet;854
+beef tallow;902
+beef tongue;284
+beetroot;43
+bell pepper;20
+bengal gram;364
+bergkäse;418
+bianca pizza;246
+bircher muesli yogurt;109
+biscuit;269
+bitter lemon;34
+black beans;341
+black chickpeas;364
+black forest cake;264
+black sesame seeds;573
+blackberries;43
+blackcurrant jam;250
+blood sausage;379
+blt;247
+blue cheese;353
+blue cheese dressing;533
+blueberry cobbler;234
+blueberry muffin;377
+blueberry yogurt;105
+bluefish;159
+bockwurst;301
+boiled ham;126
+boiled potatoes;87
+bologna;247
+bourbon;233
+bran muffins;270
+brandy;213
+brawn;309
+bread pudding;153
+brioche;346
+brittle;592
+broccoli;34
+broccoli cheese soup;87
+brown bread;246
+brownies;405
+buckler (n.a.);21
+buckwheat groats;346
+bud ice;35
+bud light;29
+bud light lime;34
+bun;316
+burger king double whopper;239
+burger king premium alaskan fish sandwich;259
+burger king triple whopper;269
+burger king whopper with cheese;241
+burrito;163
+busch;37
+busch light;27
+busch n.a.;17
+butter;720
+butter chicken;140
+butterfinger;450
+butterfish;187
+buttermilk;62
+butternut;612
+butterscotch chips;539
+cabbage;25
+cabbage soup;28
+cabernet sauvignon;77
+caesar dressing;429
+cake flour;362
+calamari;175
+calf brain;136
+calf liver;192
+calf lung;104
+calf melt;256
+calzone;231
+camembert;300
+canada dry ginger ale;41
+canadian-style bacon;107
+candied orange peel;97
+candy apple;152
+candy cane;423
+candy floss;400
+canned apricots;48
+canned blackberries;92
+canned blueberries;88
+canned cherries;54
+canned fruit cocktail;81
+canned grapefruit;37
+canned mango;65
+canned mixed fruit;71
+canned peaches;54
+canned pears;35
+canned raspberries;91
+canned sour cherries;114
+canned tangerines;61
+cannelloni;146
+cannoli;254
+canola oil;884
+cap’n crunch;404
+capellini;353
+capers;23
+capicola;110
+cappelletti;164
+caramel popcorn;376
+caramel squares;367
+caraway seeds;333
+cardamom;311
+carp;162
+carrot soup;25
+carvel;212
+cashew;553
+cassava;160
+cayenne pepper;318
+celery;16
+cellophane noodles;351
+chambord;348
+chamomile tea;0
+chapati;240
+chardonnay;85
+cheddar;403
+cheerios;347
+cheese pizza;267
+cheese spread;290
+cheese tortellini;291
+cheese whiz;276
+cheesecake;321
+chenin blanc;80
+cherries;50
+cherry coke;44
+cherry jam;250
+cherry tomato;100
+cherry yogurt;97
+chester;387
+chicken;219
+chicken breast fillet;79
+chicken drumstick;185
+chicken drumsticks;185
+chicken gizzards;146
+chicken gumbo soup;23
+chicken heart;185
+chicken leg;174
+chicken marsala;96
+chicken mcnuggets;302
+chicken parmesan;110
+chicken pizziola;141
+chicken pot pie;223
+chicken sandwich;241
+chicken stock;16
+chicken thigh;229
+chicken thighs;229
+chicken wings;324
+chicory;72
+chicory roots;72
+chili;282
+chili bean;97
+chili con carne;105
+chili sauce;112
+chimichanga;232
+chinese cabbage;16
+chives;30
+chocolate;529
+chocolate chip ice cream;215
+chocolate cream pie;304
+chocolate milkshake;125
+chocolate mousse cake;260
+chocolate mousse pie;260
+chocolate muffin;420
+chocolate spread;541
+chocolate sprinkles;500
+chocolate yogurt;128
+chocos;380
+chop suey;172
+chopped ham;180
+chuck roast;141
+chuck steak;137
+cider;49
+cilantro;23
+cinnamon toast crunch;433
+clam;148
+clamato;60
+clausthaler (n.a.);26
+club mate;30
+coco pops;376
+cocoa pebbles;367
+cocoa powder;228
+coconut oil;857
+coffee;1
+coffee cake;331
+coffee ice cream;236
+cointreau;320
+cola;42
+colby cheese;394
+conchas/mexican sweet bread;353
+concord grape;71
+cookie crisp;400
+coors n.a.;18
+corn dog;250
+cornbread;179
+corned beef;251
+corned beef hash;164
+cornish hens;259
+cornmeal;362
+cornstarch;381
+cotton candy;643
+count chocula;407
+cracklin oat bran;402
+cranberries;46
+cream cheese with herbs;342
+cream of broccoli soup;45
+cream of celery soup;37
+cream of chicken soup;48
+cream of wheat;364
+cream puff;334
+cream yogurt;124
+creamed spinach;74
+creme fraiche;393
+cress;32
+crunchy nut;600
+crunchy nut cornflakes;600
+crystallized ginger;335
+cucumber;16
+cucumber juice;10
+cumin seed;375
+cupcake;305
+cupcakes;305
+curd;98
+curly fries;311
+currant juice;48
+curry;325
+curry ketchup;124
+curry sauce;26
+custard;122
+dairy milk mcflurry;186
+dal;330
+dampfnudel;274
+dandelion;45
+danish pastry;374
+dark beer;46
+dates;282
+deep-fried tofu;271
+deviled eggs;201
+diet cherry coke;1
+diet coke;1
+diet yogurt;54
+dill;43
+dill weed;43
+dippin dots;224
+donut/doughnut;421
+dosa;66
+doughnut;403
+dove;213
+dr. pepper;27
+dragon fruit;60
+dried cranberries;308
+dried figs;249
+duck;337
+duck breast;201
+duck egg;185
+dumplings;124
+durian;147
+durum wheat semolina;397
+dutch cheese;393
+dutch loaf;268
+edam;357
+eel;236
+egg roll;250
+egg yolk;322
+empanada;335
+english muffin;227
+evaporated milk;135
+evian;0
+extra-firm tofu;91
+fajita;117
+fanta zero;0
+farfalle;358
+feta;264
+feta cream cheese;342
+fiber one;267
+filet mignon;207
+fish and chips;195
+fish fingers;290
+fish sticks;290
+five alive;35
+flan;145
+flank steak;194
+flapjack;486
+flatbread;311
+flaxseed oil;884
+flounder;86
+focaccia;249
+fontina;389
+fortune cookies;214
+frangelico;238
+frankfurters;305
+freekeh;520
+french cruller;412
+french fingerling potatoes;82
+french fries;312
+fresca;0
+friendly’s;212
+froot loops;379
+frosted flakes;367
+frosties;367
+fructose;368
+fruit cake;324
+fruit salad;50
+fruitopia;110
+fruity pebbles;400
+full throttle;110
+fuze;20
+fuze tea;25
+gamay;78
+garlic;149
+garlic cream cheese;342
+garlic powder;331
+garlic salt;0
+genesee cream ale;46
+gin;263
+ginger;80
+ginger ale;35
+ginger tea;0
+ginkgo nuts;182
+glenfiddich;230
+glucose;286
+gluten;370
+gnocchi;133
+goat cheese pizza;219
+goose fat;898
+goose meat;238
+gourd;14
+grand marnier;253
+granola bars;452
+granulated sugar;387
+grape leaves;93
+grapefruit;42
+grapefruit juice;46
+grated parmesan;431
+green beans;31
+green lentil;257
+green olives;115
+green onion;32
+greengage;41
+grilled cheese;350
+grilled chicken salad;88
+ground chuck;250
+ground ginger;335
+guinea-fowl;158
+hake;71
+halibut;111
+ham and cheese sandwich;241
+ham sandwich;241
+hamburger;254
+hamburger sauce;383
+harissa;52
+havarti;371
+hawaiian pizza;115
+hawaiian punch;31
+hazelnut;628
+hazelnuts;628
+hi-c;49
+hog maws;157
+hoki;121
+honey;304
+honey brown;42
+honey mustard dressing;464
+honey nut cheerios;393
+honeycomb;397
+honeydew;36
+horchata;54
+horseradish;48
+hot chocolate;89
+hot dog buns;279
+hot fudge sundae;186
+hot pepper;318
+hot sausage;259
+hurricane high gravity;39
+i can\’t believe it\’s not butter;357
+ice cream cake;200
+ice cream sandwich;237
+ice cream sundae;142
+iced tea;27
+iodized salt;0
+irish whiskey;233
+italian bmt;183
+italian cheese;397
+jack daniel’s;146
+jackfruit;95
+jagermeister;250
+jaggery;383
+jalapeno;13
+jelly;278
+jelly beans;354
+jelly belly;354
+jerky;410
+jim beam;222
+jolly ranchers;385
+jolt cola;44
+jujube;79
+just right;391
+kahlua;180
+kale;49
+karamalz;37
+kefir;55
+kelloggs corn flakes;357
+key lime pie;359
+kielbasa;309
+king cake;377
+koelsch;43
+kohlrabi;27
+kombucha;13
+kool-aid;26
+krave;372
+kumquat;71
+labatt;43
+lacy swiss cheese;321
+laffy taffy;372
+lager beer;43
+lamb meat;202
+landjaeger;352
+lard;898
+lasagna;132
+latte macchiato;57
+layer cake;402
+lemon juice;21
+lemon meringue pie;268
+lemon pie filling;143
+lentils;353
+licorice;375
+life cereal;375
+lifesavers;500
+light beer;29
+lima beans;71
+lime;30
+limeade;128
+linguine;357
+linseed oil;837
+liquor;250
+liquorice;375
+liverwurst;326
+lobster bisque soup;100
+lollipop;392
+lotus seed;89
+low carb pasta;282
+lowenbrau;45
+low-fat yogurt;63
+lucky charms;406
+lychee;66
+lychees;66
+macaroni and cheese;370
+mackerel;262
+maggi;104
+magnum;300
+magnum double chocolate;380
+malbec;82
+malbec wine;82
+maltesers;498
+maltodextrin;375
+maltose;344
+manchego cheese;320
+mango;60
+mango lassi;66
+maracuya;97
+marble cake;339
+margherita pizza;275
+marron;210
+marshmallow fluff;666
+marshmallows;318
+marzipan;411
+mascarpone;450
+mcdonald’s chicken nuggets;297
+mcdonald’s filet-o-fish;275
+mcdonald’s mcchicken;251
+mcflurry;153
+mcflurry oreo;186
+meat pie;242
+meatball sandwich;161
+meatball soup;49
+meatloaf;89
+menhaden oil;911
+meringue;285
+michelob lager;44
+michelob ultra amber;26
+milk;61
+miller high life;40
+millet flour;372
+millet gruel;46
+milo;409
+milwaukee’s best;36
+minced onion;40
+minestrone;34
+mini milk;120
+mini-wheats;353
+mint;70
+miso;199
+molasses;290
+monkey bread;290
+monterey;373
+moose meat;134
+moscato wine;76
+mostaccioli;184
+mozzarella;280
+mozzarella pizza;249
+muesli;336
+muffin;296
+mug root beer;42
+mullet;150
+mung beans;12
+mushroom pizza;212
+mushrooms;22
+mussel;172
+mustard;60
+mustard greens;27
+mustard oil;884
+mustard sauce;645
+mustard seed;508
+mutton;234
+mutton meat;234
+napoli pizza;202
+natural ice;44
+natural light;27
+navy bean;337
+nestea;21
+newcastle;39
+noodle soup;34
+nutella;544
+o’doul’s (n.a.);19
+oat bran;246
+oatibix;421
+oatmeal;375
+oatmeal cookies;450
+oatmeal raisin cookies;435
+obatzda;303
+octopus;164
+okra;33
+old milwaukee;41
+old milwaukee n.a.;16
+olde english;45
+olive cream cheese;342
+olive spread;550
+omelette;154
+onion;40
+onion rings;411
+opera cake;320
+orange;47
+orange juice;46
+orange peel;97
+oregano;265
+pabst blue ribbon;41
+paella;156
+pale ale;42
+palm kernel oil;882
+palm oil;882
+pan de sal;293
+pancake;227
+papaya juice;58
+paprika;282
+paratha;325
+parmesan;431
+parsley;36
+pâté (720), pate;319
+pea soup;75
+peach cobbler;65
+peanut bar;533
+peanut brittle;183
+peanut butter;589
+peanut butter bars;379
+peanut butter sandwich;408
+peanut butter toast crunch;431
+peanut oil;857
+peanuts;567
+pear;57
+pear juice;60
+pear nectar;60
+pearl barley;352
+peas;81
+pecan pie;407
+pecans;691
+pecorino;387
+penne;351
+penne rigate;370
+pepper cheese;100
+peppermint extract;0
+pepperoni pizza;255
+persimmon;127
+peter pan peanut butter;609
+pez;427
+pheasant;239
+pheasant meat;239
+physalis;49
+pibb xtra;40
+pickled herring;262
+pie;237
+pierogi;200
+pig brain;138
+pig ear;166
+pig lung;99
+pig’s trotter;243
+pigeon;142
+pili nuts;719
+pilsner;43
+pine nuts;673
+pineapple;50
+pineapple orange juice;50
+pineapple upside-down cake;319
+pinot noir;75
+pistachios;562
+pizza;267
+pizza hut stuffed crust pizza;255
+plaice;91
+plain yogurt;61
+plantain;122
+plantains;122
+plum;46
+plum cake;109
+plum jam;250
+plum juice;71
+plum wine;163
+polenta;366
+polish sausage;301
+pollack;111
+pomegranate juice;66
+pomelo;38
+poppy seed;525
+poppy seeds;525
+pork baby back ribs;212
+pork belly;518
+pork cutlet;131
+pork cutlets;131
+pork leg;201
+pork loin;204
+pork meatloaf;243
+pork rib roast;159
+pork steaks;196
+port wine;160
+porter;54
+porterhouse steak;247
+post raisin bran;322
+potato;77
+potato bread;266
+potato fritter;185
+potato gratin;132
+potato pancakes;268
+potato wedges;123
+poularde;200
+poultry seasoning;307
+pound cake;390
+poutine;227
+powdered milk;496
+powdered sugar;389
+powerade;16
+prickly pear;41
+prosciutto;195
+protein powder;411
+puff;367
+puffed rice;383
+puffed wheat;367
+pulled pork sandwich;211
+pumpernickel;250
+pumpkin bread;298
+pumpkin pie;243
+pumpkin seed oil;880
+pumpkin seeds;560
+punch;62
+puy lentils;345
+quail;227
+quail breast;123
+quaker grits;344
+quaker oatmeal squares;400
+quattro formaggi pizza;248
+quince;57
+rack of pork;241
+raclette cheese;357
+racoon;255
+radish seeds;43
+rambutan;82
+ramen;447
+raspberry pie;240
+ravioli;77
+red beans;124
+red cabbage;31
+red gold potatoes;89
+red lentils;329
+red wine vinegar;19
+refried beans;91
+reindeer meat;200
+rhubarb;21
+rhubarb pie;245
+rigatoni;353
+ring bologna;286
+roasted almonds;452
+rock sugar;625
+rolled oats;384
+rolling rock light;30
+rolo;474
+root beer;41
+rosemary;131
+rosemary potatoes;93
+rotini;353
+round steak;182
+rum;231
+rum cake;351
+rump steak;171
+russian banana potatoes;67
+russian dressing;400
+rye bread;259
+saffron;310
+sage;315
+salad dressing;449
+salami pizza;255
+salmon;206
+salmon oil;911
+salt pork;286
+salted butter;717
+sambal oelek;21
+sambuca;333
+sandwich cheese;148
+sardines;208
+sausage;230
+sausage pizza;246
+sauvignon blanc;81
+savory;272
+savoury biscuits;347
+scampi;84
+scotch;222
+scotch broth;33
+sea salt;0
+seafood pizza;245
+semolina;340
+semolina flour;350
+sesame paste;595
+shad;252
+shallots;72
+shark;130
+shepherds pie;70
+shirataki noodles;18
+shiraz;71
+shortbread;502
+shortcrust pastry;544
+shredded coconut;501
+shredded wheat;340
+shrimp cocktail;464
+sierra nevada strong;62
+skim milk;35
+skim milk yogurt;56
+skirt steak;205
+skittles;405
+sloe gin;332
+sloppy joe;71
+sloppy joes;154
+slurpee;4
+slush puppie;50
+smart start;371
+smoked almonds;575
+smoked ham;107
+smuckers strawberry jam;250
+snickers;484
+soda;53
+soft cheese;268
+soft serve;222
+solero;100
+soufflé;204
+sour cream sauce;60
+sourdough bread;289
+soursop fruit;66
+soy cheese;235
+soy mayonnaise;322
+soy milk;45
+soy nut butter;562
+soy oil;882
+soy sauce;67
+soya cheese;235
+soybeans;147
+soynut butter;562
+spareribs;238
+sparkling wine;190
+sparks;74
+special k;377
+special k chocolatey delight;388
+special k protein plus;375
+special k red berries;345
+speculoos;469
+spelt bran;177
+spelt semolina;360
+spice cake;332
+spicy italian;219
+spinach;23
+spinach pizza;234
+spring roll;250
+sprinkles;500
+sprite;37
+squirrel;173
+squirrel meat;173
+st. pauli girl;42
+starch;381
+starfruit;31
+steel reserve;63
+stevia;0
+strawberry cheesecake;327
+strawberry preserves;278
+strawberry rhubarb pie;281
+strawberry sundae;158
+strip steak;117
+succotash;115
+sucrose;387
+sugar peas;42
+sunbutter;617
+sundae;215
+sunflower butter;617
+sweet and sour sauce;179
+sweet peas;48
+sweet potato pie;260
+sweet rolls;333
+sweet white wine;82
+sweetened condensed milk;321
+tabasco;70
+taco;217
+tagliatelle;370
+tamarind;239
+tandoori chicken;113
+tang;381
+tangerine;53
+tangerine juice;43
+taro;112
+tarte tatin;210
+t-bone steak;202
+tea;1
+textured soy protein;571
+textured vegetable protein;333
+thyme;276
+tilsit;340
+tilt;64
+tiramisu cake;291
+toasties;361
+toblerone;525
+tomato;18
+tomato juice;17
+tomato paste;82
+tomato puree;38
+tomato sauce;24
+tomato soup;30
+tongue;284
+tonic water;35
+tortilla bread;265
+treacle tart;369
+tres leches cake;246
+trifle;180
+trout;190
+tuna;86
+tuna pizza;254
+tuna salad;187
+turbot;122
+turkey breast;104
+turkey drumsticks;208
+turkey giblets;173
+turkey ham;126
+turkey legs;208
+turkey salami;152
+turkey steak;189
+turkey wings;221
+turmeric;354
+turnip greens;20
+twix;495
+vanilla bean;250
+vanilla milkshake;149
+vanilla yogurt;101
+veal shoulder;183
+veal tenderloin;217
+veal tongue;202
+vegemite;180
+vegetable beef soup;31
+vegetable broth;5
+vegetable cream cheese;342
+vegetable juice;21
+vegetable shortening;884
+vegetable stock;5
+veggie burger;181
+veggie delight;138
+veggie pizza;231
+venison;164
+vinaigrette;120
+vinegar;18
+vodka;231
+volvic;0
+wahoo;167
+walnut cream cheese;342
+walnut oil;889
+water;0
+watermelon;30
+wedding cake;381
+weetabix;358
+weet-bix;353
+weetos;378
+wheat starch;351
+wheaties;367
+white american;148
+white beans;336
+white cheddar;403
+white grape juice;75
+white pepper;296
+white pizza;246
+white potatoes;94
+white wine;82
+white zinfandel;88
+whitefish;172
+whole grain noodles;347
+whole grain wheat;339
+wholegrain oat;375
+whopper;231
+wild duck;211
+wine;83
+worcestershire sauce;78
+yeast (dry);325
+yogurt corner;119
+yoplait boston cream pie;90
+yoplait french vanilla;100
+yoplait greek blueberry;100
+yoplait strawberry cheesecake;100
+yorkshire pudding;553
+young gouda;356
+yuba;176
+yukon gold potatoes;82
+zander;84
+zinfandel;88
+zinger;256
+zucchini;17

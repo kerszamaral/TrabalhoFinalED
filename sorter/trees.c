@@ -242,3 +242,61 @@ void *consulta(void *inputTree, Typeinfo info, TreeStats *stats)
     root = _consulta(root, info.name, getCounterIntPointer(stats, 4)); // Chama a função recursiva
     return root;
 }
+
+int fPrintfTree(void *inputTree, int mode, FILE *file)
+{                  // Função para imprimir a arvore "publica" para a main
+    Tree *root = (Tree *)inputTree;
+    if (root == NULL)
+    {
+        return 0; // Retorna 0 para indicar que nao existe nenhum valor na arvore
+    }
+
+    if (mode == 1) // preFixadoE
+    {
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+        fPrintfTree(root->L, mode, file);
+        fPrintfTree(root->R, mode, file);
+    }
+    else if (mode == 2) // preFixadoD
+    {
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+        fPrintfTree(root->R, mode, file);
+        fPrintfTree(root->L, mode, file);
+    }
+    else if (mode == 3) // posFixadoE
+    {
+        fPrintfTree(root->L, mode, file);
+        fPrintfTree(root->R, mode, file);
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+    }
+    else if (mode == 4) // posFixadoD
+    {
+        fPrintfTree(root->R, mode, file);
+        fPrintfTree(root->L, mode, file);
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+    }
+    else if (mode == 5) // CentralE
+    {
+        fPrintfTree(root->L, mode, file);
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+        fPrintfTree(root->R, mode, file);
+    }
+    else if (mode == 6) // CentralD
+    {
+        fPrintfTree(root->R, mode, file);
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+        fPrintfTree(root->L, mode, file);
+    }
+    else if (mode == 6) // emFixadoD
+    {
+        fprintf(file, "%s;%d\n", root->info.name,root->info.calories);
+        fPrintfTree(root->R, mode, file);
+        fPrintfTree(root->L, mode, file);
+    }
+    else
+    {
+        printf("Modo de impressão inválido\n"); // Imprime mensagem de erro
+        return 0;                               // Retorna 0 para indicar que não foi possivel imprimir a arvore
+    }
+    return 1; // Retorna 1 para indicar que foi possivel imprimir todos os valores da arvore
+}

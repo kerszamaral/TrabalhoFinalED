@@ -36,4 +36,6 @@ void updateTreeCounter(TreeStats *counter, void *tree);
 
 void *consulta(void *inputTree, Typeinfo info, TreeStats *stats);
 
+int fPrintfTree(void *inputTree, int mode, FILE *file);
+
 #endif
