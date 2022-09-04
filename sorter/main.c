@@ -13,8 +13,8 @@
 
 int main(void)
 {
-    FILE *original = fopen("1000SortedOriginal.txt", "r");
-    FILE *output = fopen("output.txt", "w");
+    FILE *original = fopen("1000Sorted.txt", "r");
+    // FILE *output = fopen("output.txt", "w");
 
     ABP *tree = createTree();
     TreeStats stats = initCounter("ABP");
@@ -26,10 +26,16 @@ int main(void)
         insertABP(&tree, food, &stats);
     }
 
-    fPrintfTree(tree, 5, output);
+    // fPrintfTree(tree, 5, output);
+    
+    int numNodes = numberNodes(tree);
+    int height = heightTree(tree);
+
+    printf("Number of nodes: %d\n", numNodes);
+    printf("Height: %d\n", height);
 
     fclose(original);
-    fclose(output);
+    // fclose(output);
 
     deletTree(&tree);
 
