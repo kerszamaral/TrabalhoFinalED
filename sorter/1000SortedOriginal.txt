@@ -25,8 +25,8 @@ Apple Strudel;274
 Apple Turnover;348
 Applesauce;62
 Apricot Kernel Oil;889
-Arby’s Reuben;208
-Arby’s Roast Beef Max;234
+Arby's Reuben;208
+Arby's Roast Beef Max;234
 Arugula;25
 Asiago Cheese;392
 Asti;138
@@ -41,7 +41,7 @@ Bacon;407
 Bacon and Eggs;252
 Bagel;257
 Baguette;274
-Bailey’s Irish Cream;327
+Bailey's Irish Cream;327
 Baileys;327
 Baked Alaska;247
 Baked Ham;343
@@ -54,14 +54,14 @@ Banana Juice;50
 Banana Nut Bread;326
 Banoffee Pie;395
 Barley Groats;100
-Barq’s;46
+Barq's;46
 Bass;45
 BBQ Pizza;224
 BBQ Ribs;255
 Bean Curd;76
 Bean Stew;133
 Bechamel Sauce;225
-Beck’s;39
+Beck's;39
 Beef Bouillon;3
 Beef Brain;196
 Beef Brisket;137
@@ -82,7 +82,7 @@ Beef Tongue;284
 Beetroot;43
 Bell Pepper;20
 Bengal Gram;364
-Bergkäse;418
+Bergkase;418
 Bianca Pizza;246
 Bircher Muesli Yogurt;109
 Biscuit;269
@@ -171,7 +171,7 @@ Canned Tangerines;61
 Cannelloni;146
 Cannoli;254
 Canola Oil;884
-Cap’n Crunch;404
+Cap'n Crunch;404
 Capellini;353
 Capers;23
 Capicola;110
@@ -372,7 +372,7 @@ French Cruller;412
 French Fingerling Potatoes;82
 French Fries;312
 Fresca;0
-Friendly’s;212
+Friendly's;212
 Froot Loops;379
 Frosted Flakes;367
 Frosties;367
@@ -449,7 +449,7 @@ Hot Fudge Sundae;186
 Hot Pepper;318
 Hot Sausage;259
 Hurricane High Gravity;39
-I can\’t believe it\’s not Butter;357
+I can't believe it's not Butter;357
 Ice Cream Cake;200
 Ice Cream Sandwich;237
 Ice Cream Sundae;142
@@ -458,7 +458,7 @@ Iodized Salt;0
 Irish Whiskey;233
 Italian BMT;183
 Italian Cheese;397
-Jack Daniel’s;146
+Jack Daniel's;146
 Jackfruit;95
 Jagermeister;250
 Jaggery;383
@@ -542,9 +542,9 @@ Marshmallow Fluff;666
 Marshmallows;318
 Marzipan;411
 Mascarpone;450
-McDonald’s Chicken Nuggets;297
-McDonald’s Filet-o-Fish;275
-McDonald’s McChicken;251
+McDonald's Chicken Nuggets;297
+McDonald's Filet-o-Fish;275
+McDonald's McChicken;251
 McFlurry;153
 McFlurry Oreo;186
 Meat Pie;242
@@ -560,7 +560,7 @@ Miller High Life;40
 Millet Flour;372
 Millet Gruel;46
 Milo;409
-Milwaukee’s Best;36
+Milwaukee's Best;36
 Minced Onion;40
 Minestrone;34
 Mini Milk;120
@@ -598,7 +598,7 @@ Nestea;21
 Newcastle;39
 Noodle Soup;34
 Nutella;544
-O’Doul’s (N.A.);19
+O'Doul's (N.A.);19
 Oat Bran;246
 Oatibix;421
 Oatmeal;375
@@ -632,7 +632,7 @@ Paprika;282
 Paratha;325
 Parmesan;431
 Parsley;36
-Pâté (720), Pate;319
+Pate;319
 Pea Soup;75
 Peach Cobbler;65
 Peanut Bar;533
@@ -669,7 +669,7 @@ Pierogi;200
 Pig Brain;138
 Pig Ear;166
 Pig Lung;99
-Pig’s Trotter;243
+Pig's Trotter;243
 Pigeon;142
 Pili Nuts;719
 Pilsner;43
@@ -833,7 +833,7 @@ Soda;53
 Soft Cheese;268
 Soft Serve;222
 Solero;100
-Soufflé;204
+Souffl';204
 Sour Cream Sauce;60
 Sourdough Bread;289
 Soursop Fruit;66
