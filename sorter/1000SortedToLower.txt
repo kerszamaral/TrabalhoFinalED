@@ -516,8 +516,8 @@ lobster bisque soup;100
 lollipop;392
 lotus seed;89
 low carb pasta;282
-low-fat yogurt;63
 lowenbrau;45
+low-fat yogurt;63
 lucky charms;406
 lychee;66
 lychees;66
@@ -887,7 +887,6 @@ sweet potato pie;260
 sweet rolls;333
 sweet white wine;82
 sweetened condensed milk;321
-t-bone steak;202
 tabasco;70
 taco;217
 tagliatelle;370
@@ -898,6 +897,7 @@ tangerine;53
 tangerine juice;43
 taro;112
 tarte tatin;210
+t-bone steak;202
 tea;1
 textured soy protein;571
 textured vegetable protein;333
@@ -962,8 +962,8 @@ walnut oil;889
 water;0
 watermelon;30
 wedding cake;381
-weet-bix;353
 weetabix;358
+weet-bix;353
 weetos;378
 wheat starch;351
 wheaties;367

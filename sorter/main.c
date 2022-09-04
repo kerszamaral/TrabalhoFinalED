@@ -13,22 +13,22 @@
 
 int main(void)
 {
-    FILE *file = fopen("1000SortedOR.txt", "r");
+    FILE *original = fopen("1000SortedOriginal.txt", "r");
     FILE *output = fopen("output.txt", "w");
 
     ABP *tree = createTree();
     TreeStats stats = initCounter("ABP");
 
     Food food;
-    while(!getFoodFromFile(&food, file))
+    while(!getFoodFromFile(&food, original))
     {
-        fprintf(output, "%s;%d\n", food.name, food.calories);
+        // fprintf(output, "%s;%d\n", food.name, food.calories);
         insertABP(&tree, food, &stats);
     }
 
-    // fPrintfTree(tree, 5, output);
+    fPrintfTree(tree, 5, output);
 
-    fclose(file);
+    fclose(original);
     fclose(output);
 
     deletTree(&tree);
